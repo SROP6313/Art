@@ -1,2 +1,2 @@
 # Art
-by MediBang Pro
+by MediBang Paint Pro
